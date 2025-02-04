@@ -45,4 +45,9 @@ Y aquí hay otra imagen:
   * Tiene una barba frondosa
   * Le encanta el whiskey
     * ¿Posiblemente el escocés?
+   
+
+¿Qué me contradigo?··
+Sí, me contradigo. Y ¿qué?,..
+(Yo soy inmenso y contengo multitudes.)
 
