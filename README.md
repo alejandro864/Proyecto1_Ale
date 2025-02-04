@@ -29,3 +29,9 @@ Y aquí hay otra imagen:
 > "El pecado de no hacer nada es el más mortal de los siete pecados.  
 > Se ha dicho que para que los hombres malvados logren su propósito,  
 > solo es necesario que los buenos hombres no hagan nada."
+
+* Leche  
+* Huevos  
+* Salmón  
+* Mantequilla
+
