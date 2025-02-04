@@ -15,3 +15,12 @@ Aquí hay [otro sitio para explorar][otro-sitio].
 [otro-sitio]: https://www.stumbleupon.com  
 
 ![Un bonito tigre](https://example.com/tiger.png)
+
+¡Aquí hay una imagen interesante!  
+![Imagen en negro][Negro]  
+
+Y aquí hay otra imagen:  
+![Un lindo gato][Gato]  
+
+[Negro]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg  
+[Gato]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png 
