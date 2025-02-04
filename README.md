@@ -47,7 +47,7 @@ Y aquí hay otra imagen:
     * ¿Posiblemente el escocés?
    
 
-¿Qué me contradigo?··
+¿Qué me contradigo?..
 Sí, me contradigo. Y ¿qué?,..
 (Yo soy inmenso y contengo multitudes.)
 
