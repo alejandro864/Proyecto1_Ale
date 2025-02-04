@@ -24,3 +24,8 @@ Y aquí hay otra imagen:
 
 [Negro]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg  
 [Gato]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png 
+
+
+> "El pecado de no hacer nada es el más mortal de los siete pecados.  
+> Se ha dicho que para que los hombres malvados logren su propósito,  
+> solo es necesario que los buenos hombres no hagan nada."
