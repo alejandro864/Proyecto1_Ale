@@ -14,3 +14,4 @@ Aquí hay [otro sitio para explorar][otro-sitio].
 [un lugar divertido]: https://www.zombo.com  
 [otro-sitio]: https://www.stumbleupon.com  
 
+![Un bonito tigre](https://example.com/tiger.png)
