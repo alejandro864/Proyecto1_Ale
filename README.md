@@ -37,12 +37,12 @@ Y aquí hay otra imagen:
 
 
 * Tintín
- * Periodista
- * Es pelirrojo
- * Tiene de amigo al perro más asombroso del mundo
+  * Periodista
+  * Es pelirrojo
+  * Tiene de amigo al perro más asombroso del mundo
 * Haddock
- * Un capitán de mar
- * Tiene una barba frondosa
- * Le encanta el whiskey
-   * ¿Posiblemente el escocés?
+  * Un capitán de mar
+  * Tiene una barba frondosa
+  * Le encanta el whiskey
+    * ¿Posiblemente el escocés?
 
