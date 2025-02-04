@@ -36,7 +36,7 @@ Y aquí hay otra imagen:
 * Mantequilla
 
 
-  * Tintín
+* Tintín
  * Periodista
  * Es pelirrojo
  * Tiene de amigo al perro más asombroso del mundo
