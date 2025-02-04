@@ -35,3 +35,14 @@ Y aquí hay otra imagen:
 * Salmón  
 * Mantequilla
 
+
+  * Tintín
+ * Periodista
+ * Es pelirrojo
+ * Tiene de amigo al perro más asombroso del mundo
+* Haddock
+ * Un capitán de mar
+ * Tiene una barba frondosa
+ * Le encanta el whiskey
+   * ¿Posiblemente el escocés?
+
